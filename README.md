@@ -12,5 +12,5 @@ Currently Setup Plugins
 2. lsp: C using clangd, Lua using lua_ls
 3. lualine
 4. treesitter
-5. telescope: Ctrl-p for find files, <leader>fg for live grep, ui-select to format lsp better
+5. telescope: Ctrl-p for find files, leader key fg for live grep, ui-select to format lsp better
 6. Neotree: Ctrl-n to display right side file tree
